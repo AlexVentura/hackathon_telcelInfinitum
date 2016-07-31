@@ -66,8 +66,7 @@ module.exports.routes = addGlobalPrefix({
   ***************************************************************************/
 
   '/': {
-    // view: 'homepage'
-    redirect_to: 'api/'
+    view: 'homepage'
   },
 
   'POST /login' : { controller: 'Auth', action: 'login' },

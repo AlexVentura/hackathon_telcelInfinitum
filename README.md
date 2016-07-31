@@ -1,4 +1,3 @@
-# cappcity
+# Cappcity
 
-a [Sails](http://sailsjs.org) application
-Hackathon - TelcelInfinitum
+a [Sails](http://sailsjs.org) application for Hackathon - TelcelInfinitum
