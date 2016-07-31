@@ -6,3 +6,8 @@
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
 }
+
+.logo {
+	height: 50px;
+	margin-top: 6px;
+}
